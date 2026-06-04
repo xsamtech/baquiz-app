@@ -1,2 +1,2 @@
 # baquiz-app
-Mobile app for Baquiz platform.
+Mobile app for the Baquiz platform.
